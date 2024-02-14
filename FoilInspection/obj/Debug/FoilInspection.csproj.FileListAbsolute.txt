@@ -1,0 +1,6 @@
+D:\Add Inno\Projects\FoilInspection\FoilInspection\obj\Debug\FoilInspection.csproj.AssemblyReference.cache
+D:\Add Inno\Projects\FoilInspection\FoilInspection\obj\Debug\FoilInspection.csproj.SuggestedBindingRedirects.cache
+D:\Add Inno\Projects\FoilInspection\FoilInspection\obj\Debug\FoilInspection.InspectionPage.resources
+D:\Add Inno\Projects\FoilInspection\FoilInspection\obj\Debug\FoilInspection.Properties.Resources.resources
+D:\Add Inno\Projects\FoilInspection\FoilInspection\obj\Debug\FoilInspection.csproj.GenerateResource.cache
+D:\Add Inno\Projects\FoilInspection\FoilInspection\obj\Debug\FoilInspection.csproj.CoreCompileInputs.cache
